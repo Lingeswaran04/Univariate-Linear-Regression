@@ -54,7 +54,6 @@ plt.show()
 ```
 ## Output
 ![image](https://github.com/Lingeswaran04/Univariate-Linear-Regression/assets/119103865/da330a41-9450-4650-9472-d642767c5b5c)
-![image](https://github.com/Lingeswaran04/Univariate-Linear-Regression/assets/119103865/b5d4256e-a799-4367-8e12-fb0d2b993481)
 
 
 ## Result
