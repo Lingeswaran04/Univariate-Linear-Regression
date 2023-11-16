@@ -50,7 +50,6 @@ plt.scatter(X,Y,color = 'blue')
 plt.plot(X,Y_pred,color = 'red')
 plt.title('xv=y')
 plt.show()
-
 ```
 ## Output
 ![image](https://github.com/Lingeswaran04/Univariate-Linear-Regression/assets/119103865/da330a41-9450-4650-9472-d642767c5b5c)
