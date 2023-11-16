@@ -17,8 +17,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 ```
  Program for Univariat linear regression
  using the least squere method
- Developed By : R.Vignesh
- Register Number:22008489
+ Developed By : LINGESWARAN K
+ Register Number: 212222110022
 
 import numpy as np
 # Preprocessing Input data
